@@ -67,7 +67,6 @@ class MainActivity : AppCompatActivity() {
     )
 
     private val lowerCaseNames = namesList.map { it.lowercase() }
-
     private val speciesList = listOf(
         "Human",
         "Human",
